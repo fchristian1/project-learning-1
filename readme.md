@@ -1,8 +1,8 @@
-projekt learning 1 der techstarter class 2404 mit scrum umgesetzt
+# projekt learning 1 der techstarter class 2404 mit scrum umgesetzt
 
-website: frontend und backend
+## website: frontend und backend
 
-reihenfolge der erweiterung des projektes
+## reihenfolge der erweiterung des projektes
 
 ✅ -. arbeitsverzeichnis erstellt für frontend, backend und devops
 
