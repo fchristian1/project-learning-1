@@ -2,7 +2,9 @@
 
 ## pretask: aufgaben für den projektstart
 ❌ - Produktvision erstellen
+
 ❌ - Product Owner, Scrum Master, Entwicklungsteam in persona zum start festlegen
+
 ❌ - Product Backlog erstellen
 
 
