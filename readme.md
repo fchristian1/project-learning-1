@@ -1,4 +1,4 @@
-projekt learning 1 der techstarter class 2404
+projekt learning 1 der techstarter class 2404 mit scrum umgesetzt
 
 website: frontend und backend
 
