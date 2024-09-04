@@ -22,4 +22,4 @@
 
 ❌ - Product Backlog erstellen
 
-✅ - arbeitsverzeichnis erstellt für scrum frontend, backend und devops
+✅ - arbeitsverzeichnis erstellt für projekt, scrum, frontend, backend und devops
