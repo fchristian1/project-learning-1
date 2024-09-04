@@ -1,5 +1,10 @@
 # projekt learning 1 der techstarter class 2404 mit scrum umgesetzt
 
+## team tasks: aufgabe für das team
+- anschuen und lesen der datei [projekt_pre_task/0_readmee.md](https://github.com/fchristian1/project-learning-1/blob/master/projekt_pre_task/0_readme.md)
+- eintragen, mitmachen und ideeen einbringen
+- macht euch gedanken in welche rolle du passt oder du ausprobieren möchtest
+
 ## pretask: aufgaben für den projektstart
 ❌ - Produktvision erstellen
 
@@ -13,7 +18,6 @@
 ## reihenfolge der erweiterung des projektes
 
 ✅ -. arbeitsverzeichnis erstellt für frontend, backend und devops
-
 
 ❌ 1. user kann todos anzeigen, erstellen, bearbeiten und löschen über ein password
 
