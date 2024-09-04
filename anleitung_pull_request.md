@@ -16,10 +16,6 @@
      ```
 
 3. **Änderungen vornehmen:**
-   - Erstelle einen neuen Branch:
-     ```bash
-     git checkout -b neuer-branch-name
-     ```
    - Führe deine Änderungen durch und speichere sie.
    - Füge die Änderungen zur Staging-Area hinzu:
      ```bash
@@ -33,7 +29,7 @@
 4. **Branch zu GitHub pushen:**
    - Push den neuen Branch zu deinem Fork auf GitHub:
      ```bash
-     git push origin neuer-branch-name
+     git push
      ```
 
 5. **Pull Request erstellen:**
