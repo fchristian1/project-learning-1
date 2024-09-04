@@ -22,7 +22,7 @@ Was kann das Todo
 
 ## reihenfolge der erweiterung des projektes
 
-✅ -. arbeitsverzeichnis erstellt für frontend, backend und devops
+
 
 ❌ 1. user kann todos anzeigen, erstellen, bearbeiten und löschen über ein password
 
