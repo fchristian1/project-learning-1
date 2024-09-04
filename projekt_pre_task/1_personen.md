@@ -4,3 +4,4 @@
 Vorname/GithubName
 - Christian / fchristian1
 - Alexander / alexanderkutzer
+- Dima / dmitrii-vainman
