@@ -9,11 +9,15 @@ mehrfach eintragungen sind klar möglich. wird dann während des projektverlaufe
 
 (Alexander)
 
+(Jihen)
+
 ### Developer:
 
 Christian
 
 Alexander
+
+Jihen
 
 ### Design-Lead:
 
