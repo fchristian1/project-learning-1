@@ -1,9 +1,9 @@
 # Projekt learning - Anleitung
 ## Was musst du machen
-forke oder clone das project mit
+forke und clone das project mit
 
 ```bash
-git clone https://github.com/fchristian1/project-learning-1.git
+git clone https://github.com/<username>/project-learning-1.git
 ```
 
 Gehe in 1_personen.md und trage deinen Vornamen und Github-Namen ein.
