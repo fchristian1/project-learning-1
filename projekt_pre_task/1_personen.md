@@ -5,4 +5,5 @@ Vorname/GithubName
 - Christian / fchristian1
 - Alexander / alexanderkutzer
 - Dima / dmitrii-vainman
-- Armin / armin-backhaus- Ilona / ilonagoergens
+- Armin / armin-backhaus-
+- Ilona / ilonagoergens
