@@ -2,9 +2,9 @@ hier bitte eintragen wer was machen möchte.
 mehrfach eintragungen sind klar möglich. wird dann während des projektverlaufes ein rollentausch geben!
 
 ### Product-Owner:
-Alexander
+(Alexander)
 ### Scrum-Master:
-Alexander
+(Alexander)
 ### Developer:
 Christian
 Alexander
