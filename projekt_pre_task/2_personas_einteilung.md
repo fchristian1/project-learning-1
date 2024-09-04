@@ -5,9 +5,11 @@ mehrfach eintragungen sind klar möglich. wird dann während des projektverlaufe
 (Alexander)
 ### Scrum-Master:
 (Alexander)
+(Jihen)
 ### Developer:
 Christian
 Alexander
+Jihen
 ### Design-Lead:
 
 ### Technical-Lead:

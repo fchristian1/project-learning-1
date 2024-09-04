@@ -7,3 +7,4 @@ Vorname / GithubName
 - Dima / dmitrii-vainman
 - Armin / armin-backhaus
 - Ilona / ilonagoergens
+- Jihen / jihenmich
