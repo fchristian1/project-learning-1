@@ -21,3 +21,5 @@
 ❌ - Product Owner, Scrum Master, Entwicklungsteam in persona zum start festlegen
 
 ❌ - Product Backlog erstellen
+
+✅ - arbeitsverzeichnis erstellt für scrum frontend, backend und devops
