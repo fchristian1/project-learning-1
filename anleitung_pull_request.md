@@ -1,5 +1,5 @@
 # anleitung um einen fork zu erstellen zu clonen und eine pull-request zu erstellen
-![Workflow](./workflow.png)
+![Workflow](./workflow1.png)
 
 1. **Fork erstellen:**
    - Gehe auf die GitHub-Seite des Repositories, das du forken möchtest.
