@@ -7,7 +7,7 @@ Hier ist das **Produkt Backlog** basierend auf den User Stories der ToDo-Website
 
 1. **Design Story 1: Erstellen einer ersten Skizze (Sicht vom Flugzeug)**
    - Grundlegendes Design und Anordnung der Komonenten (Einteilung der Seite, Nav, Main, Footer, Große Komonenten)
-   - Beispiel![Beispiel](https://github.com/fchristian1/project-learning-1/blob/master/projekt_pre_task/3_Ideen/todo/Design1.png?raw=true)Grundlegendes Design und Anordnung der Komonenten (Einteilung der Seite, Nav, Main, Footer, Große Komonenten)
+   - Beispiel![Beispiel](./Design1.png)Grundlegendes Design und Anordnung der Komonenten (Einteilung der Seite, Nav, Main, Footer, Große Komonenten)
 
      
 2. **Design Story 2: Erstellen eines ersten einfachen Prototypen der Seite (Sicht vom Hochhaus)**
