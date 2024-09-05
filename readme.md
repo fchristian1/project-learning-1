@@ -14,6 +14,7 @@
 - eintragen, mitmachen und ideen einbringen
 - macht euch gedanken in welche rolle du passt oder du ausprobieren möchtest
 - habe spaß, mut und nutze diesen rahmen zum üben und lernen
+- [meetings](https://github.com/fchristian1/project-learning-1/blob/master/meetings.md) mit terminen zur vorbereitung und absprache
 
 ## pretask: aufgaben für den projektstart
 ❌ - Produktvision erstellen
