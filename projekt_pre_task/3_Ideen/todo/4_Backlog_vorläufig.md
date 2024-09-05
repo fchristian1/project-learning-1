@@ -3,7 +3,24 @@ Hier ist das **Produkt Backlog** basierend auf den User Stories der ToDo-Website
 ### **Produkt Backlog – ToDo-Website**
 
 #### **Priorität: Hoch**
+##### **Design**
 
+-. **Design Story 1: Erstellen einer ersten Skizze (Sicht vom Flugzeug)**
+   - Grundlegendes Design und Anordnung der Komonenten (Einteilung der Seite, Nav, Main, Footer, Große Komonenten)
+     
+-. **Design Story 2: Erstellen eines ersten einfachen Prototypen der Seite (Sicht vom Hochhaus)**
+   - Details wie die Einzelnen Komponeten zusammen aussehen mussen. (dafür das man darauf achtet wo und welche abstände einzuhalten sind, wie groß soll die schrifft sein)
+     
+-. **Design Story 3: Entwurf der einzelnen Komponenten (Sicht vom der Leiter)**
+   - Entwerfen der Einzelnen Komponenten (Gesammtübersicht, der ToDo, ToDo übersicht, Kalender, Fortschrittsübersicht, Projekt-Übersicht, Tag-Übersicht,  Aufgaben Timeline)
+     
+-. **Design Story 4: Entwurf der kleinsten Komponenten (Sicht mit der Lupe)**
+   - Wie sehen Buttons, Inputs, Listen... aus um immer gleicheit und wiederfinden zu haben
+     
+-. **Design Story 5: Zusammenfügen der Einzelnen Komponentnen zum Ganzen**
+   - alle Details und Komponenten zu einen Prototypen zusammengefasst.
+
+##### **UserStory**
 1. **User Story 1: ToDo anzeigen**
    - **Beschreibung:** Benutzer kann eine Übersicht seiner ToDos sehen.
    - **Akzeptanzkriterien:** Liste aller ToDos, Unterscheidung zwischen abgeschlossenen und offenen Aufgaben.
