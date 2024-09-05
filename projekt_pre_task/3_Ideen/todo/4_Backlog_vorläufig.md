@@ -93,5 +93,3 @@ Hier ist das **Produkt Backlog** basierend auf den User Stories der ToDo-Website
 
 **Prioritätseinstufung:**
 Die Backlog-Items mit hoher Priorität sollten in den ersten Sprints bearbeitet werden, da sie die grundlegenden Funktionen für die ToDo-Website sicherstellen. Die mittleren und niedrigeren Prioritäten betreffen erweiterte Funktionen, die nach den ersten MVP (Minimal Viable Product)-Schritten folgen sollten.
-
-Möchtest du noch Änderungen an der Priorisierung oder den Items vornehmen?
