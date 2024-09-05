@@ -5,19 +5,19 @@ Hier ist das **Produkt Backlog** basierend auf den User Stories der ToDo-Website
 #### **Priorität: Hoch**
 ##### **Design**
 
--. **Design Story 1: Erstellen einer ersten Skizze (Sicht vom Flugzeug)**
+1. **Design Story 1: Erstellen einer ersten Skizze (Sicht vom Flugzeug)**
    - Grundlegendes Design und Anordnung der Komonenten (Einteilung der Seite, Nav, Main, Footer, Große Komonenten)
      
--. **Design Story 2: Erstellen eines ersten einfachen Prototypen der Seite (Sicht vom Hochhaus)**
+2. **Design Story 2: Erstellen eines ersten einfachen Prototypen der Seite (Sicht vom Hochhaus)**
    - Details wie die Einzelnen Komponeten zusammen aussehen mussen. (dafür das man darauf achtet wo und welche abstände einzuhalten sind, wie groß soll die schrifft sein)
      
--. **Design Story 3: Entwurf der einzelnen Komponenten (Sicht vom der Leiter)**
+3. **Design Story 3: Entwurf der einzelnen Komponenten (Sicht vom der Leiter)**
    - Entwerfen der Einzelnen Komponenten (Gesammtübersicht, der ToDo, ToDo übersicht, Kalender, Fortschrittsübersicht, Projekt-Übersicht, Tag-Übersicht,  Aufgaben Timeline)
      
--. **Design Story 4: Entwurf der kleinsten Komponenten (Sicht mit der Lupe)**
+4. **Design Story 4: Entwurf der kleinsten Komponenten (Sicht mit der Lupe)**
    - Wie sehen Buttons, Inputs, Listen... aus um immer gleicheit und wiederfinden zu haben
      
--. **Design Story 5: Zusammenfügen der Einzelnen Komponentnen zum Ganzen**
+5. **Design Story 5: Zusammenfügen der Einzelnen Komponentnen zum Ganzen**
    - alle Details und Komponenten zu einen Prototypen zusammengefasst.
 
 ##### **UserStory**
