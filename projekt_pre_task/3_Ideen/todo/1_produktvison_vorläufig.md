@@ -7,7 +7,7 @@ Unsere ToDo-Website ist eine leistungsstarke, intuitive und benutzerfreundliche 
 - **Effizientes Aufgabenmanagement:** Nutzer können ihre Aufgaben priorisieren, kategorisieren und nach verschiedenen Tags durchsuchen. Dies stellt sicher, dass wichtige Aufgaben im Vordergrund stehen und schnell bearbeitet werden können.
 - **Personalisierung und Wiederkehrende Aufgaben:** Die Website ermöglicht es Nutzern, wiederkehrende Aufgaben einfach zu planen und anzupassen. Tags und Kategorisierung helfen dabei, Aufgaben nach persönlichen Vorlieben zu strukturieren.
 - **Erhöhte Produktivität durch Kollaboration:** Mit der Möglichkeit, Aufgaben zu teilen und gemeinsam zu bearbeiten, schafft die Plattform eine Umgebung, in der Teams effizient zusammenarbeiten können.
-- **Benutzerfreundlichkeit:** Durch Funktionen wie Drag-and-Drop, Fortschrittsbalken und eine Suchfunktion wird das Navigieren und Verwalten von Aufgaben einfach und intuitiv.
+- **Benutzerfreundlichkeit:** Durch Funktionen wie Drag-and-Drop, Fortschrittsbalken und eine Suchfunktion wird das Navigieren und Verwalten von Aufgaben einfach und intuitiv. Durch das zusammenfassen mit Tags enstehen verbünde aus aufgaben die zusammen oder gemeinsam abgearbeitet werden können. Und es enstehen Projekte mit Unteraufgaben und wiederum Unteraufgaben.
 - **Datensicherheit:** Der Fokus liegt auf personalisierten ToDo-Listen, die sicher und privat sind. Jeder Nutzer hat Zugang zu seinen eigenen Aufgaben, die geschützt und nicht öffentlich zugänglich sind.
 
 **Kernfunktionen**
