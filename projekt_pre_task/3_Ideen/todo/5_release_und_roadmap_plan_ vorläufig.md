@@ -1,7 +1,3 @@
-Hier ist ein einfacher **Release Plan** und eine **Product Roadmap**, die speziell für ein Team aus Junior Entwicklern entwickelt wurden. Diese Pläne berücksichtigen eine realistische Geschwindigkeit und helfen, klare Ziele zu setzen, die auch für weniger erfahrene Teams gut umsetzbar sind.
-
----
-
 ### **Release Plan für die ToDo-Website**
 
 #### **Überblick**
@@ -10,7 +6,7 @@ Der Release Plan beschreibt, wann bestimmte Funktionen des Produkts bereitgestel
 #### **Meilensteine & Releases**
 
 1. **Release 1: Grundlegende ToDo-Funktionalität (MVP)**
-   - **Geplanter Release:** Ende Sprint 3 (nach ca. 6 Wochen)
+   - **Geplanter Release:** Ende Sprint 3 
    - **Funktionen:**
      - Benutzer kann ToDos erstellen, anzeigen, bearbeiten und löschen.
      - Passwortgeschützte Anmeldung (einfache Authentifizierung).
@@ -18,7 +14,7 @@ Der Release Plan beschreibt, wann bestimmte Funktionen des Produkts bereitgestel
    - **Ziel:** Ein einfaches, aber funktionierendes ToDo-Tool.
 
 2. **Release 2: Benutzerverwaltung und Sicherheit**
-   - **Geplanter Release:** Ende Sprint 6 (nach ca. 12 Wochen)
+   - **Geplanter Release:** Ende Sprint 6 
    - **Funktionen:**
      - Benutzerregistrierung und -verwaltung.
      - Sichere Speicherung von ToDos pro Benutzer (Datenbankintegration).
@@ -26,7 +22,7 @@ Der Release Plan beschreibt, wann bestimmte Funktionen des Produkts bereitgestel
    - **Ziel:** Verbesserung der Datensicherheit und Benutzerverwaltung.
 
 3. **Release 3: Kategorisierung und wiederkehrende Aufgaben**
-   - **Geplanter Release:** Ende Sprint 9 (nach ca. 18 Wochen)
+   - **Geplanter Release:** Ende Sprint 9 
    - **Funktionen:**
      - ToDos können in Listen und Kategorien organisiert werden.
      - Wiederkehrende Aufgaben (z. B. wöchentliche Aufgaben).
@@ -34,7 +30,7 @@ Der Release Plan beschreibt, wann bestimmte Funktionen des Produkts bereitgestel
    - **Ziel:** Erweiterung der ToDo-Funktionalität mit Kategorisierung und Automatisierungen.
 
 4. **Release 4: Kollaboration und Benachrichtigungen**
-   - **Geplanter Release:** Ende Sprint 12 (nach ca. 24 Wochen)
+   - **Geplanter Release:** Ende Sprint 12 
    - **Funktionen:**
      - Teilen und gemeinsame Bearbeitung von ToDos.
      - Benachrichtigungen und Erinnerungen für fällige Aufgaben.
@@ -97,6 +93,3 @@ Der Release Plan beschreibt, wann bestimmte Funktionen des Produkts bereitgestel
 - **Automatisierte Tests:** Implementiere frühzeitig automatisierte Tests, um sicherzustellen, dass die entwickelten Funktionen korrekt funktionieren und die Qualität konstant bleibt.
 - **Feedback-Loops:** Nach jedem Sprint sollte es eine Retrospektive geben, um Verbesserungen vorzunehmen und den Lernprozess für das Team zu fördern.
 
----
-
-Dieser Plan berücksichtigt das Tempo und die Lernkurve eines Junior-Teams und stellt sicher, dass kontinuierlich funktionierende Software geliefert wird, während das Team schrittweise neue Fähigkeiten und Techniken erlernt. Möchtest du weitere Anpassungen an der Roadmap oder dem Plan vornehmen?
