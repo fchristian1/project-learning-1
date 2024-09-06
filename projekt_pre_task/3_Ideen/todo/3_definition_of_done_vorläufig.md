@@ -50,6 +50,7 @@ Die **Definition of Done** beschreibt die Kriterien, die erfüllt sein müssen, 
 ### 10. **Benutzerfeedback (falls relevant)**
    - Feedback von Benutzern, falls erforderlich, wurde eingeholt und eingearbeitet.
    - Die Funktionalität wurde in der realen Umgebung getestet und ist bereit für den Einsatz.
+#### Sima 
 ### 11. **Barrierefreiheit und Usability**
    - Es wird sichergestellt, dass die Website den WCAG-Richtlinien entspricht und für Menschen mit Behinderungen zugänglich ist. - - Benutzerfreundlichkeitstests werden durchgeführt, und Feedback wird integriert, um die UX zu optimieren.
 ### 12. **Erweiterte Testanforderungen:**
