@@ -24,7 +24,7 @@ Hier sind die **User Stories** basierend auf der **Produktvision der ToDo-Websit
    - **möchte ich** ein bestehendes ToDo bearbeiten
    - **um** Änderungen an der Aufgabe vorzunehmen, falls sich Prioritäten oder Details ändern.
    - **Akzeptanzkriterien:**
-     - Der Benutzer kann alle Felder eines bestehenden ToDos (Titel, Beschreibung, Priorität, Fälligkeitsdatum) ändern.
+     - Der Benutzer kann alle Felder eines bestehenden ToDo's (Titel, Beschreibung, Priorität, Fälligkeitsdatum) ändern.
      - Änderungen werden sofort in der ToDo-Liste sichtbar.
 
 4. **User Story 4: ToDo löschen**
