@@ -50,7 +50,14 @@ Die **Definition of Done** beschreibt die Kriterien, die erfüllt sein müssen, 
 ### 10. **Benutzerfeedback (falls relevant)**
    - Feedback von Benutzern, falls erforderlich, wurde eingeholt und eingearbeitet.
    - Die Funktionalität wurde in der realen Umgebung getestet und ist bereit für den Einsatz.
+### 11. **Barrierefreiheit und Usability**
+   - Es wird sichergestellt, dass die Website den WCAG-Richtlinien entspricht und für Menschen mit Behinderungen zugänglich ist. - - Benutzerfreundlichkeitstests werden durchgeführt, und Feedback wird integriert, um die UX zu optimieren.
+### 12. **Erweiterte Testanforderungen:**
+    - Performance-Tests werden hinzugefügt, um Stabilität unter hoher Last sicherzustellen. Sicherheits-Testszenarien werden   ergänzt, um Schutz vor Angriffen zu gewährleisten.
+### 13. **Spezifische Performance-Kriterien:**
+    -Schwellenwerte für Lade- und Antwortzeiten der Website werden festgelegt (z. B. unter 2 Sekunden für die Hauptseite), um eine schnelle Benutzererfahrung zu gewährleisten. Zudem werden Ziele zur Optimierung von Datenbankabfragen definiert, um die Effizienz und Leistung der Anwendung zu maximieren.
 
 Diese **Definition of Done** stellt sicher, dass jede Aufgabe, User Story oder Inkrement vollständig und qualitativ hochwertig abgeschlossen wird, bevor sie als „done“ markiert wird. 
 
 Möchtest du noch spezifische Kriterien hinzufügen oder anpassen?
+
