@@ -9,7 +9,7 @@ Hier sind die **User Stories** basierend auf der **Produktvision der ToDo-Websit
    - **Akzeptanzkriterien:**
      - Der Benutzer sieht eine Liste aller erstellten ToDos.
      - ToDos werden nach Priorität sortiert angezeigt.
-     - Es gibt eine klare Unterscheidung zwischen abgeschlossenen und offenen ToDos.
+     - Es gibt eine klare Unterscheidung zwischen abgeschlossenen und offenen ToDo's.
 
 2. **User Story 2: ToDo erstellen**
    - **Als** Benutzer
