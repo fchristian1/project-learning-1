@@ -11,6 +11,8 @@ Die **Definition of Done** beschreibt die Kriterien, die erfüllt sein müssen, 
    - Der Code ist gemäß den internen Coding-Standards formatiert und strukturiert.
    - Der Code wurde durch Peer-Reviews geprüft und freigegeben.
    - Alle unnötigen Kommentare, Debugging-Tools oder temporäre Codes wurden entfernt.
+   - Es gibt nur einen Main-Branch, entwickelt wird in FeatureBranches.
+   - Das System ist immer ausführbar im Main, alle Test waren vorher Positiv.
      
 ### 3. **Lauffähigkeit**
    - Das System soll für den Entwickler lokal zum live bearbeiten lauffähig sein.
