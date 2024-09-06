@@ -1,6 +1,6 @@
 Hier sind die **User Stories** basierend auf der **Produktvision der ToDo-Website**:
 
-### **Phase 1: Benutzer kann ToDos anzeigen, erstellen, bearbeiten und löschen (geschützt durch Passwort)**
+### **Phase 1: Benutzer kann ToDo's anzeigen, erstellen, bearbeiten und löschen (geschützt durch Passwort)**
 
 1. **User Story 1: ToDo anzeigen**
    - **Als** Benutzer
