@@ -9,7 +9,6 @@ Hier ist das **Produkt Backlog** basierend auf den User Stories der ToDo-Website
    - Grundlegendes Design und Anordnung der Komonenten (Einteilung der Seite, Nav, Main, Footer, Große Komonenten)
    - Beispiel![Beispiel](./Design1.png)Grundlegendes Design und Anordnung der Komonenten (Einteilung der Seite, Nav, Main, Footer, Große Komonenten)
 
-     
 2. **Design Story 2: Erstellen eines ersten einfachen Prototypen der Seite (Sicht vom Hochhaus)**
    - Details wie die Einzelnen Komponeten zusammen aussehen mussen. (dafür das man darauf achtet wo und welche abstände einzuhalten sind, wie groß soll die schrifft sein)
      
@@ -86,6 +85,7 @@ Hier ist das **Produkt Backlog** basierend auf den User Stories der ToDo-Website
 ---
 
 ### **Zusätzliche technische Backlog-Items:**
+- **Lauffähigkeit des Systems sicherstellen:** Projektstruktur und Systemcode/scripte ausrichten auf Dev Arbeit, Prasentations und Produktions umgebungen.
 - **Datenbankstruktur erstellen:** Datenbankstruktur für die Speicherung von ToDos, Benutzern und Kategorien definieren.
 - **Sicherheitssystem aufsetzen:** Implementierung von Sicherheitsmaßnahmen (z.B. Passwortverschlüsselung, sichere Speicherung von Benutzerdaten).
 - **Suchfunktion implementieren:** Schnelles Finden von ToDos durch eine Suchfunktion.
