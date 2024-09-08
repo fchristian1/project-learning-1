@@ -1,4 +1,4 @@
-# projekt learning 1 der techstarter class 2404 mit scrum umgesetzt
+# Projekt Learning 1 der Techstarter Class 2404 mit Scrum umgesetzt
 
 ## Was wollen wir erreichen
 - Das Gelernte in die Praxis umsetzen
@@ -21,11 +21,11 @@
 - Hab Spaß, sei mutig und nutze diesen Rahmen zum Üben und Lernen
 - [Meetings](https://github.com/fchristian1/project-learning-1/blob/master/meetings.md) mit Terminen zur Vorbereitung und Absprache
 
-## pretask: aufgaben für den projektstart
+## Pretask: Aufgaben für den Projektstart
 ❌ - Produktvision erstellen
 
-❌ - Product Owner, Scrum Master, Entwicklungsteam in persona zum start festlegen
+❌ - Product Owner, Scrum Master, Entwicklungsteam in Persona zum Start festlegen
 
 ❌ - Product Backlog erstellen
 
-✅ - arbeitsverzeichnis erstellt für projekt, scrum, frontend, backend und devops
+✅ - Arbeitsverzeichnis erstellt für Projekt, Scrum, Frontend, Backend und DevOps
