@@ -4,7 +4,12 @@
 - das gelernte in die praxis umsetzten
 - herrausfinden in welche rollen man passt
 - ein projekt mit scrum umzusetzen
-  
+
+## Wie wollen wir es erreichen
+- Teamarbeit
+- Lernen aus Erfahrung
+- Kontinuierlicher Verbesserung
+
 ### ziele 
 - ein portfolio increment für jeden einzelnen der hier mitwirkt
 - tools die das lernen und leben einfacher machen
