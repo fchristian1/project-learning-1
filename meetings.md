@@ -23,5 +23,7 @@ Ziele sollten sein:
   - Austauschen von Erfahrungen
 
 > MO 09.09.2024 : ab 20:00 Uhr - PreTask: Produktvison, Backlog festlegen.
+> 
 > DI 10.09.2024 : Meeting mit den Stackholdern und des Teams vereinbaren zur vorstellung und Vison des Projektes und beginn einleiten (Projelstart)
+> 
 > DI 10.09.2024 : ab 20:00 Uhr - Sprintplanning 1.1, 1.2, 1.3 durchführen
