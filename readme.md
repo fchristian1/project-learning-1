@@ -22,9 +22,9 @@
 - [Meetings](https://github.com/fchristian1/project-learning-1/blob/master/meetings.md) mit Terminen zur Vorbereitung und Absprache
 
 ## Pretask: Aufgaben für den Projektstart
-❌ - Produktvision erstellen
+✅ - Produktvision erstellen
 
-❌ - Product Owner, Scrum Master, Entwicklungsteam in Persona zum Start festlegen
+✅ - Product Owner, Scrum Master, Entwicklungsteam in Persona zum Start festlegen
 
 ❌ - Product Backlog erstellen
 
